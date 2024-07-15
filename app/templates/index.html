@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rekomendasi Mata Kuliah</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body>
+    <h1>Rekomendasi Mata Kuliah</h1>
+    <form action="/recommend" method="post" enctype="multipart/form-data">
+        <label for="pdf">Upload Laporan (PDF):</label>
+        <input type="file" id="pdf" name="pdf" accept="application/pdf">
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if similarities %}
+        <h2>Hasil Rekomendasi untuk: {{ file_name }}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Mata Kuliah</th>
+                    <th>SKS</th>
+                    <th>Similarity (%)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for index, (subject, sks, similarity) in enumerate(similarities) %}
+                    <tr>
+                        <td>{{ index + 1 }}</td>
+                        <td>{{ subject }}</td>
+                        <td>{{ sks }}</td>
+                        <td>{{ similarity }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h2>Mata Kuliah yang Direkomendasikan:</h2>
+        <ul>
+            {% for subject, sks, similarity in recommended_subjects %}
+                <li>{{ subject }} - {{ sks }} SKS ({{ similarity }}%)</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>

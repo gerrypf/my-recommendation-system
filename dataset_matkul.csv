@@ -1,0 +1,25 @@
+﻿subject;keywords;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Kecerdasan Artifisial dan Machine Learning;Microsoft Azure AI Fundamentals;Machine Learning;Data Preprocessing;Dataset;Feature;Attribute;Label;Support Vector Machines;Decision Trees;Random Forest;Deep Learning;Supervised Learning;Unsupervised Learning;Semi-supervised Learning;Reinforcement Learning;Computer Vision;Tensorflow;AI;Artificial Intelligence;MSE;MAE;MAPE;Akurasi;Presisi;Recall;F1 Score;overfitting;underfitting;confussion matrix;Exploratory data analysis;EDA;Support Vector Machine;SVM;Computer Vision;facial recognition;Natural Language Processing;NLP;data training;data validation;Convolutional Neural Network;CNN
+Pemrograman Mobile;Mobile;React.js;Android;iOS;Swift;Java;Kotlin;Flutter;UI/UX;Figma;SQLite;Firebase;Google Play;App Store;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Interaksi Manusia dan Komputer;UI/UX;Figma;User Persona;User-Centered Design;User Research;Wireframe;Antarmuka;Layar Sentuh;Touchscreen;User Testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Teknologi Multimedia;LZW;Lempel–Ziv–Welch;Shannon-fano;Pemroresan Citra;Virtual Reality;VR;Augmented Reality;AR;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Operasional Pengembang;OOP;SOLID;Unit Testing;Integration Testing;Acceptance Testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Desain dan Manajemen Jaringan Komputer;Virtual Private Network;router;Software Define Network;Metro-E;MPLS;Cloud Network;komunikasi data;IPv4;Network Management System;Small Form-factor pluggable Transceiver;IPv6;WiFi;Socket;;UDP;TCP;Telnet;;;;;;;;;;;;;;;;;;;;;;;;
+Jaringan Nirkabel;Virtual Private Network;router;Cloud Network;komunikasi data;IPv4;IPv6;WiFi;UDP;TCP;Telnet;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Business Intelligence;Power BI;Visualisasi Data;barplot;scatterplot;Business Analysis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Forensik Digital;biometrik;metadata;jejak digital;investigasi digital;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Malware dan Cyber Threat Intelligence;Virus;Malware;Intrusion Detection System;cybersecurity;Information security;;IDS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Manajemen Keamanan Siber;Linux;firewall;Phishing;Password authentication protocol;System security;Private Browsing;Kriptografi;Enkripsi;IP Security;Virus;Malware;Deffi-Hellman;Steganografi;Adaptive Security Appliance;Secure Shell;;cybersecurity;Information security;;;;;;;;;;;;;;;;;;;;;;;
+Quantum Computing untuk Cybersecurity;kriptografi;cybersecurity;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Privasi/Perlindungan Data dan Ergonomi pada Cybersecurity;privacy protection;cybersecurity;Information security;Privacy framework;ISO 27555:2021;ISO 29100:2011;biometrik;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Audit Keamanan Informasi;ISO;IEC 27001;NIST;Analisis Risiko Keamanan Informasi;Security Monitoring;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Skalabilitas dan Reliabilitas Sistem;Probability Density Function;PDF;Cumulative Distribution Function;CDF;Reliability Function;Mean Time Between Failures;MTBF;Mean Time To Failure;MTTF;Decreasing Failures Region;DFR;Stabilized Failures Region;SFR;Increasing Failures Region;IFR;Service Life Extension Programs;SLEP;Failure Mode Effects Analysis;FMEA;FRACAS;Reliability Centered Maintenance;RCM;Condition Based Maintenance;CBM;;;;;;;;;;;;;;;;;
+Pengadaan IT;pengadaan software;pengadaan hardware;pengadaan layanan cloud;biaya pengadaan IT;etika pengadaan IT;Sustainable IT Procurement;hukum pengadaan IT;keamanan pengadaan IT;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Penjaminan Kualitas TI;ISO 9001;CMMI;bottleneck;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Teknologi Blockchain;Blockchain;Cryptocurrency;Data Mining;Proof-of-Work;PoW;Bitcoin;Ethereum;Decentralized Applications;Dapps;Decentralized Autonomous Organizations;DAOs;Initial Coin Offerings;ICOs;Unspent Transaction Output;UTXO;Segregated Witness;SegWit;;;;;;;;;;;;;;;;;;;;;;;;
+Sistem Cerdas;fuzzy;Neural Network;Natural Language Processing;NLP;Fitur Citra;Sistem Pakar;Sistem Multi-Agen;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Otomasi Sistem;sistem kontrol;Aktuator;PLC;SCADA;Modbus;Profibus;Otomasi Bangunan;Otomasi Pertanian;Robotika;Otomasi Listrik;Ladder Logic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Keamanan Sistem Cyber-Physical dan Kota Cerdas;firewall;Linux;Phishing;Password authentication protocol;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Internet of Things;Internet of Things;IoT;Arduino;Smart Device;Mikrokontroler;Wemos D1 R1;ESP;LED;Buzzer;Relay;MQTT;Serial Monitor;Sensor Cahaya; Sensor Suhu;Sensor Kelembapan;Server Monitoring;Smart Home;Blynk;Web Dashboard;Data IoT;Sensor Ultrasonik;Mini Servo;Baterai;"Kabel
+Jumper";Higrometer;GPS;Global Positioning System;Aktuator;Electronic Development Board;I/O;Dynamic Host Configuration Protocol;;;;;;;;;;
+Cloud Computing;Cloud Computing;Google Cloud;AWS;Amazon Web Services;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
